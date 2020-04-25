@@ -1,23 +1,25 @@
 backend folder has the django backend code.
 frontend folder has the react frontend code.
 
-### backend
+# backend
 
-# install dependencies
+### install dependencies
 pip install django
 pip install django-cors-headers
 pip install json
 
-# to start backend
+### to start backend
 python manage.py runserver
 
 
-### frontend
+# frontend
 
-# install dependencies
+### install dependencies
 npm install
 
-# to start client
+### to start client
 npm start
 
 
+
+test api used is https://jsonplaceholder.typicode.com/users  as it has more fields
